@@ -7,6 +7,6 @@ Sep, 2022.
 
 
 Update: May, 2025.
-- I'm AWS Certified Cloud Practitioner since Aug, 2023. I'm working currently working in the field for a Data Engineer. I have re-taken my Python learning journey; however, I just started two months ago, therefore, I'm still building my fundational knowledge for this programming language. My current learning path is focused on the Data Engineering field. This path, includes learning how to use the Pandas framework, API basics, Airflow, CI/CD, PySpark, Unit testing, distribuited systems, DBT, Python scripting/automation, Docker/Containers, PowerAutomate, and other more.  
+- I'm AWS Certified Cloud Practitioner since Aug, 2023. I'm currently working in the field for a Data Engineer. I have re-taken my Python learning journey; however, I just started two months ago, therefore, I'm still building my fundational knowledge for this programming language. My current learning path is focused on the Data Engineering field. This path, includes learning how to use the Pandas framework, API basics, Airflow, CI/CD, PySpark, Unit testing, distribuited systems, DBT, Python scripting/automation, Docker/Containers, PowerAutomate, and other more.  
 
 
